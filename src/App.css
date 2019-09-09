@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  border: orange 2px solid;
+  }
+
+  .product-table{
+  border: green 1px solid;
+}
+
+.search-bar{
+  border: blue 1px solid;
 }
 
 .App-logo {
